@@ -96,9 +96,9 @@ The system successfully demonstrates:
 
 ## Authors  
 - **Chinmay Srivastava** – BML Munjal University, Gurugram, Haryana  
-  - Email: [Your Email Here]  
+  - Email: [chinmayy10@gmail.com]  
 - **Raghuvansh Singh Parmar** – BML Munjal University, Gurugram, Haryana  
-  - Email: [Your Email Here]  
+  - Email: [raguvanshsingh.parmar.22cse@bmu.edu.in]  
 
 ---
 
@@ -106,6 +106,3 @@ The system successfully demonstrates:
 The **Sketch Match** project provides an efficient and scalable solution for sketch-based image retrieval and restoration, making it a valuable tool for real-world applications requiring high precision and adaptability.  
 
 ---  
-
-## License  
-This project is licensed under the [MIT License](LICENSE).  
