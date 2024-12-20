@@ -48,13 +48,10 @@ The **Sketch Match** system is a robust tool for sketch-based image retrieval an
 - **Python**: Used for implementing the project.  
 
 ### Libraries and Frameworks  
-1. **OpenCV**:  
-   - Image processing tasks such as feature extraction, image restoration, and transformations.  
-2. **NumPy**:  
-   - Numerical operations, array manipulation, and computations.  
-3. **Matplotlib**:  
-   - Data visualization and plotting performance metrics.  
-
+1. **OpenCV**  
+2. **NumPy**
+3. **Matplotlib**
+   
 ### Algorithms and Techniques  
 1. **SIFT (Scale-Invariant Feature Transform)**:  
    - Feature detection and descriptor computation.  
@@ -79,11 +76,10 @@ The **Sketch Match** system is a robust tool for sketch-based image retrieval an
 
 ---
 
-## How It Works  
-1. Input a distorted or low-quality sketch.  
-2. Match it to the most similar sketch in the database using **SIFT** and **FLANN**.  
-3. Enhance and restore the input sketch.  
-4. Retrieve the original image from the database using the restored sketch.  
+## How to Run 
+1. Fork and download  
+2. Extract the archive.zip in the same file with SketchMatch.ipynb file
+3. change the paths if required in the code
 
 ---
 
